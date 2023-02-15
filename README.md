@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Prueba mod 2
+este proyecto es una prueba de como clonar un repositorio a mi escritorio desde hithub.
